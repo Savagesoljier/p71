@@ -1,0 +1,120 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.announcement {
+    background-color: aqua;
+    width: 100%;
+    height: 30px;
+}
+
+#marqueeStyle {
+    width: 100%;
+    direction: right;
+    height: 100px;
+    color: palevioletred;
+    font-size: 120%;
+}
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_maindiv {
+    border: 1px solid red;
+    width:33.33%;
+    padding:5px;
+    float: left;
+}
+
+.travel_maindiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_maindiv hr {
+    width: 100%;
+
+}
+
+.travel_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.enviroment_li {
+    margin-top: 13px;
+
+}
+
+.enviroment_li h4 {
+    border-bottom: 1px solid blue;
+    padding: 8px;
+
+}
+
+.header_enterpreuner {
+    line-height: 2;
+
+}
+
+.book {
+    cursor: pointer;
+
+}
+
+.book hr {
+    margin-top: 10px;
+
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#map iframe {
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
